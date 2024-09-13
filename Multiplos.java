@@ -20,7 +20,6 @@ public class Multiplos {
 
     public static String verificarmultiplos(int num1, int num2) {
      
-        }
         if (num1 % num2 == 0) {
             return num1 + " es múltiplo de " + num2;
         } else if (num2 % num1 == 0) {
